@@ -31,7 +31,7 @@ class EventHandler
      *
      * @var bool|null
      */
-    public $afterCommit = null;
+    public $afterCommit;
 
     /**
      * Constructor.
