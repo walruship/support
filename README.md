@@ -6,7 +6,7 @@
 
 Walruship is a PHP 8.1+ framework agnostic fully-featured authentication & authorization system. It also provides additional features such as user roles and additional security features.
 
-An open source package by [Walruship](https://walruship.com), code well, rock on!
+An open source package by [Walruship Co.,Ltd](https://walruship.com), code well, rock on!
 
 ## Version Matrix
 
@@ -22,11 +22,11 @@ Using the package, but you're stuck? Found a bug? Have a question or suggestion 
 
 ## Security
 
-If you discover any security related issues, please email contact@walruship.com instead of using the issue tracker.
+If you discover any security related issues, please email info@walruship.com instead of using the issue tracker.
 
 ## License
 
-This software is released under the [BSD 3-Clause](LICENSE) License. Please see the [LICENSE](LICENSE) file or https://walruship.com/LICENSE.txt for more information.
+This software is released under the [BSD 3-Clause][link-license] License. Please see the [LICENSE](LICENSE) file or https://walruship.com/LICENSE.txt for more information.
 
 [link-docs]:      https://walruship.com
 [link-travis]:    https://walruship.com

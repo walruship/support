@@ -1,6 +1,6 @@
 <?php
 /*
- * Walruship Co., Ltd
+ * Walruship Co.,Ltd
  *
  * NOTICE OF LICENSE
  *
@@ -8,7 +8,7 @@
  * available through the world-wide-web at this URL:
  * https://walruship.com/LICENSE.txt
  *
- * @author          Walruship Co., Ltd
+ * @author          Walruship Co.,Ltd
  * @copyright       Copyright (c) 2023 Walruship
  * @link            https://walruship.com
  */
